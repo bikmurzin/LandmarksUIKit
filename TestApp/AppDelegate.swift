@@ -1,16 +1,8 @@
-//
-//  AppDelegate.swift
-//  TestApp
-//
-//  Created by Иван Рачинский on 21.07.2022.
-//
-
 import UIKit
+@_exported import SnapKit
 
-@main
+@UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
-
-
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
